@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JJB/JJB.iml" filepath="$PROJECT_DIR$/JJB/JJB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JJBProject.iml" filepath="$PROJECT_DIR$/JJBProject.iml" />
+    </modules>
+  </component>
+</project>
+
